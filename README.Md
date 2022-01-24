@@ -18,4 +18,4 @@
 ## If you don't want GUI you can directly pass images for prediction with command:
 ### python3 test.py imagepath.jpg
 
-###### The model does a preety bad job at prediction. The the model still has to be improved a lot.
+###### The model is really bad  at prediction. The model still has to be improved a lot.
